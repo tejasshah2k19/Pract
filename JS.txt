@@ -66,3 +66,47 @@
      - 1 → 'Sunday', 2 → 'Monday', … 7 → 'Saturday'.
      - Else → 'Invalid Input'.
 
+-----------------------------------------------------------------------------------------------
+
+Student Result System
+   - Input: User enters marks in 5 subjects.
+   - Logic:
+     - Calculate total and percentage.
+     - If percentage ≥ 90 → 'Outstanding'.
+     - If 75–89 → 'Distinction'.
+     - If 50–74 → 'Pass'.
+     - Else → 'Fail'.
+
+ATM Withdrawal Validator
+   - Input: User enters withdrawal amount and current balance.
+   - Logic:
+     - If amount ≤ balance and amount is multiple of 100 → 'Transaction Successful'.
+     - Else if amount > balance → 'Insufficient Balance'.
+     - Else → 'Invalid Amount'.
+
+Online Shopping Discount
+   - Input: Total purchase amount + Is user a Premium Member (Yes/No).
+   - Logic:
+     - If purchase ≥ 5000 and Premium → 20% discount.
+     - If purchase ≥ 5000 and not Premium → 10% discount.
+     - If purchase < 5000 and Premium → 5% discount.
+     - Else → 'No discount'.
+
+  BMI Calculator
+   - Input: User enters height (m) and weight (kg).
+   - Logic:
+     - Calculate BMI = weight / (height²).
+     - If BMI < 18.5 → 'Underweight'.
+     - If 18.5–24.9 → 'Normal'.
+     - If 25–29.9 → 'Overweight'.
+     - If ≥ 30 → 'Obese'.
+
+ Income Tax Calculator
+   - Input: Annual Income.
+   - Logic:
+     - If ≤ 2.5L → 'No Tax'.
+     - If 2.5–5L → 5% tax.
+     - If 5–10L → 20% tax.
+     - If > 10L → 30% tax.
+
+
