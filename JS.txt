@@ -1,0 +1,68 @@
+ 
+1. Age Checker
+   - Input: User enters their age.
+   - Logic:
+     - If age < 18 → show 'You are Minor'.
+     - If 18–59 → show 'You are Adult'.
+     - If 60+ → show 'You are Senior Citizen'.
+
+2. Grade Calculator
+   - Input: User enters marks out of 100.
+   - Logic:
+     - 90–100 → 'Grade A'
+     - 75–89 → 'Grade B'
+     - 50–74 → 'Grade C'
+     - Below 50 → 'Fail'
+
+3. Login Validation
+   - Input: User enters username and password.
+   - Logic:
+     - If username = 'admin' and password = '1234' → show 'Login Successful'.
+     - Else → show 'Invalid Credentials'.
+
+4. Number Sign Checker
+   - Input: User enters a number.
+   - Logic:
+     - If number > 0 → 'Positive'.
+     - If number < 0 → 'Negative'.
+     - If number = 0 → 'Zero'.
+
+5. Voting Eligibility
+   - Input: User enters age.
+   - Logic:
+     - If age ≥ 18 → 'Eligible to Vote'.
+     - Else → 'Not Eligible to Vote'.
+
+ 
+
+1. Leap Year Checker
+   - Input: User enters a year.
+   - Logic:
+     - If year is divisible by 400 → Leap Year.
+     - Else if divisible by 4 but not by 100 → Leap Year.
+     - Else → Not a Leap Year.
+
+2. Largest of Three Numbers
+   - Input: User enters three numbers.
+   - Logic:
+     - Compare using if-else and show the largest number.
+
+3. Simple Calculator
+   - Input: User enters two numbers and selects an operation (+, −, ×, ÷).
+   - Logic:
+     - Perform calculation using if-else.
+     - Show result.
+
+4. Password Strength Checker
+   - Input: User enters a password.
+   - Logic:
+     - If length < 6 → 'Weak Password'.
+     - If length ≥ 6 and contains numbers → 'Medium'.
+     - If length ≥ 8 and contains special characters + numbers → 'Strong'.
+
+5. Day of Week Finder
+   - Input: User enters a number (1–7).
+   - Logic:
+     - 1 → 'Sunday', 2 → 'Monday', … 7 → 'Saturday'.
+     - Else → 'Invalid Input'.
+
